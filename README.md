@@ -15,3 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![Leetcode Stats](https://leetcard.jacoblin.cool/harshitshaw0501?theme=dark)
+## 100+ questions on code CODE360(by codingninjas)
+## Link:https://www.naukri.com/code360/profile/tarunshaw
