@@ -19,5 +19,6 @@ Here are some ideas to get you started:
 ## Link:https://www.naukri.com/code360/profile/tarunshaw
 ![image alt](https://github.com/harshitshaw0501/harshitshaw0501/blob/main/Screenshot%20(92).png?raw=true)
 ## geeksforgeeks 
+<img width="732" height="621" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/6a91f4b7-1192-4950-b7d4-72a8812d5abd" />
 ## Link:https://www.geeksforgeeks.org/user/harshitsowtx/
 ## 400+ DSA QUESTIONS in different coding platforms
