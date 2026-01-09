@@ -20,4 +20,4 @@ Here are some ideas to get you started:
 ![image alt](https://github.com/harshitshaw0501/harshitshaw0501/blob/main/Screenshot%20(92).png?raw=true)
 ## geeksforgeeks 
 ## Link:https://www.geeksforgeeks.org/user/harshitsowtx/
-## 300+ DSA QUESTIONS in different coding platforms
+## 400+ DSA QUESTIONS in different coding platforms
